@@ -6,6 +6,8 @@ Usage:
 First open index.js in the integrated terminal then type node index.js into the terminal after that answer the questions and Finally
 your readme file should be updated.
 Deployed Application:
+[Untitled_ Jul 13, 2023 1_57 PM.webm](https://github.com/Maddieestes/Readme101/assets/129248476/7c894e41-eeb9-4109-beb4-64a2b233fc70)
+
 
 
 
