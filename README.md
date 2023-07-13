@@ -12,6 +12,12 @@ Deployed Application Link:
 [Untitled_ Jul 13, 2023 1_57 PM.webm](https://github.com/Maddieestes/Readme101/assets/129248476/7c894e41-eeb9-4109-beb4-64a2b233fc70)
 
 
+![Screenshot 2023-07-13 140700](https://github.com/Maddieestes/Readme101/assets/129248476/c8c95071-a1bf-47fe-beb6-284abe1e5fe3)
+
+
+
+
+![Screenshot 2023-07-13 140604](https://github.com/Maddieestes/Readme101/assets/129248476/881f0c62-efd1-46cc-8c87-d1558820a712)
 
 
 
