@@ -16,8 +16,4 @@ Credits:
  https://courses.bootcampspot.com/courses/3512/assignments/53813?module_item_id=958241
 
  License:
-<<<<<<< HEAD
  MIT LICENSE
-=======
- MIT LICENSE
->>>>>>> 502a98e1069fd66f521e733dd054da40888110a9
